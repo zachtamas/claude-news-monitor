@@ -89,7 +89,7 @@ futás óta megjelent cikkeket dolgozza fel (lásd: állapotkövetés).
 A futás végén a napi összefoglalót el kell küldeni emailben a
 felhasználónak.
 
-**Címzett:** `<ide írd be a saját email-címedet>`
+**Címzett:** zachtamas@gmail.com
 
 Ehhez:
 
