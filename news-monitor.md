@@ -15,6 +15,16 @@ megjelent, a megadott témákba tartozó fontosabb híreket, linkekkel ellátva.
 > védelem miatt egyszerű HTML-lekéréssel nem érhető el; ha mégis kellene,
 > az RSS feedjét kellene használni, ha van neki).
 
+> Megjegyzés: bizonyos futtatási környezetekben (pl. sandboxolt Claude Code
+> munkameneteknél) a portfolio.hu (és a www.portfolio.hu, amire átirányít)
+> domain szervezeti szintű hálózati egress-policy miatt egyáltalán nem
+> érhető el (nem egy adott URL, hanem maga a domain van letiltva a
+> proxy szintjén). Ilyenkor ezt a forrást ki kell hagyni az adott
+> futásból, és a kimenet végén jelezni kell, hogy nem volt elérhető —
+> ne próbáld megkerülni a tiltást. Ha a futtatási környezet (pl. egy
+> felhőben futó Cloud Routine) másképp van konfigurálva és a domain
+> mégis elérhető, természetesen normálisan fel kell dolgozni.
+
 ## Érdeklődési témák
 
 1. **Belföldi politika**
