@@ -31,6 +31,7 @@ egy strukturált, forráslinkekkel ellátott összefoglalót küld el emailben.
 - telex.hu
 - 444.hu
 - hvg.hu
+- 24.hu
 
 (A prog.hu és a portfolio.hu szándékosan nincs a listán — az előbbi
 JavaScript-védelem, az utóbbi bizonyos futtatási környezetekben fennálló
