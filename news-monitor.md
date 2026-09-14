@@ -94,6 +94,25 @@ futás óta megjelent cikkeket dolgozza fel (lásd: állapotkövetés).
   csak akkor, ha a gép be van kapcsolva. Cron esetén pl.:
   `0 7 * * * cd /projekt/utvonala && claude -p "kövesd a news-monitor.md instrukcióit" --dangerously-skip-permissions`
 
+## Git-munkafolyamat
+
+1. **Indulás**: minden futás az elején mindig a `main` branch legfrissebb
+   állapotából induljon ki (`git fetch origin main`, majd a munka egy a
+   `main`-ből ágaztatott branch-en történjen) — ne egy korábbi futásból
+   visszamaradt feladat-branch-ről folytatódjon.
+2. **Munka**: az összefoglaló elkészítése és az állapotfájl
+   (`seen_urls.json`) frissítése ezen a branch-en történjen, majd kerüljön
+   commitolásra.
+3. **Publikálás**: a futás végén nyiss Pull Requestet a módosításokkal a
+   `main` branch felé, és merge-eld be azt — ez egy automatizált,
+   rutinszerű állapotfrissítés, nem igényel emberi jóváhagyást.
+4. **Takarítás**: a merge után töröld a már a `main`-be beolvasztott, és
+   2 napnál régebbi feladat-branch-eket (helyi és remote branch-et is),
+   hogy ne halmozódjanak fel felesleges branch-ek a repóban. Csak olyan
+   branch törölhető, ami már be lett merge-elve a `main`-be — nyitott,
+   még be nem merge-elt branch-et (pl. egy párhuzamosan futó másik
+   feladat branch-ét) nem szabad törölni.
+
 ## Email küldés
 
 A futás végén a napi összefoglalót el kell küldeni emailben a
