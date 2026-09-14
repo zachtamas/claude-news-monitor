@@ -9,6 +9,7 @@ megjelent, a megadott témákba tartozó fontosabb híreket, linkekkel ellátva.
 - https://telex.hu
 - https://444.hu
 - https://hvg.hu
+- https://24.hu
 
 > Megjegyzés: a prog.hu-t szándékosan nem tartalmazza a lista (JavaScript-
 > védelem miatt egyszerű HTML-lekéréssel nem érhető el; ha mégis kellene,
@@ -19,7 +20,9 @@ megjelent, a megadott témákba tartozó fontosabb híreket, linkekkel ellátva.
 > hálózati egress-policy miatt bizonyos futtatási környezetekben
 > (pl. sandboxolt Claude Code munkameneteknél) egyáltalán nem érhető el
 > (nem egy adott URL, hanem maga a domain van letiltva a proxy
-> szintjén).
+> szintjén). Érdemes időnként újra ellenőrizni, mert a policy
+> változhat (2026.09.14-én pl. a 24.hu időközben elérhetővé vált,
+> miután korábban ugyanígy le volt tiltva).
 
 ## Érdeklődési témák
 
@@ -39,9 +42,9 @@ hír, vagy egy sportesemény körüli politikai vonatkozás).
 2. **Szűrés**: az egyes oldalak rovatai alapján (pl. telex.hu:
    `/rovat/belfold`, `/rovat/techtud`, `/rovat/sport`; hvg.hu:
    `/itthon`, `/tudomany`, `/sport`; 444.hu: „POLITIKA", „TECH",
-   „SPORT"; portfolio.hu: cikkek témája alapján) válaszd ki azokat a
-   cikkeket, amik a három témába tartoznak, és amik **aznap** (vagy az
-   előző futás óta) jelentek meg.
+   „SPORT"; 24.hu: `/belfold`, `/tech`, `/tudomany`, `/sport`) válaszd
+   ki azokat a cikkeket, amik a három témába tartoznak, és amik
+   **aznap** (vagy az előző futás óta) jelentek meg.
 3. **Deduplikáció / kereszthivatkozás**: ha ugyanarról a hírről több
    forrás is ír, ne külön tételként listázd, hanem egyetlen tételként,
    és **mindegyik forrás linkjét** tüntesd fel mellette. A hírek
