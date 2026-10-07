@@ -1,9 +1,9 @@
 {
-  "last_run": "2026-10-06T09:00:00Z",
+  "last_run": "2026-10-07T09:00:00Z",
   "sources": {
     "telex.hu": {
       "status": "error",
-      "method": "rss (https://telex.hu/rss) – Cloudflare 403 challenge 2026-10-06"
+      "method": "rss (https://telex.hu/rss) – Cloudflare 403 challenge 2026-10-07"
     },
     "444.hu": {
       "status": "ok",
@@ -11,7 +11,7 @@
     },
     "hvg.hu": {
       "status": "error",
-      "method": "rss (https://hvg.hu/rss) – 403 2026-10-06"
+      "method": "rss (https://hvg.hu/rss) – 403 2026-10-07"
     },
     "24.hu": {
       "status": "ok",
@@ -3206,6 +3206,46 @@
     "https://telex.hu/zacc/2026/09/12/ez-egy-foto-alice-cooperrol-a-szkita-kezmuvesboltban-nem-pedig-egy-bosch-festmeny",
     "https://telex.hu/zacc/2026/09/21/hegedus-zsolt-tanacs-zoltan-madach-szinhaz-evita-premier-foto",
     "https://telex.hu/zacc/2026/09/26/kalifornia-san-diego-labrador-betoro",
-    "https://telex.hu/zacc/2026/09/28/hanko-balazs-idezes-ugyeszseg-auto-sofor"
+    "https://telex.hu/zacc/2026/09/28/hanko-balazs-idezes-ugyeszseg-auto-sofor",
+    "https://444.hu/2026/10/07/egy-szurkolo-kolcsonadta-az-aranycsapat-tortenelmi-ereklyejet-a-mezokovesdnek-de-amikor-visszakerte-kozoltek-vele-hogy-az-eltunt",
+    "https://444.hu/2026/10/07/felbontjak-a-23-ezer-milliard-forintos-autopalya-koncessziot",
+    "https://444.hu/2026/10/07/meg-olcsobban-vehetunk-ennivalot-viszont-kilott-az-uzemanyagok-ara-gyorsulo-utemben-no-az-inflacio",
+    "https://444.hu/2026/10/07/a-budapesti-olimpian-portugaliaban-szorfoznenek-viszont-a-kiszarado-balatonban-vitorlaznanak",
+    "https://444.hu/2026/10/07/nagy-langgal-kezdett-egni-egy-olajszallito-hajo-az-orosz-udulovaros-elott-a-nyaralokat-arra-kertek-ne-menjenek-az-utcara",
+    "https://444.hu/2026/10/07/a-rendorseg-egy-ponton-feladta-de-az-egyhazi-vizsgalat-bortonbe-juttatta-az-ausztral-puspokot",
+    "https://444.hu/2026/10/07/meghalt-pinter-dezso-a-tv2-elso-elnoke",
+    "https://444.hu/2026/10/07/13-millio-euro-elsikkasztasaval-gyanusitjak-az-eszakmacedon-allami-lotto-ket-penzugyi-vezetojet",
+    "https://444.hu/2026/10/07/jd-vance-szerint-irannak-csokkentenie-kell-az-urandusitast-a-haboru-befejezesehez",
+    "https://444.hu/2026/10/07/gollal-es-ket-golpasszal-bucsuzott-messi-az-argentin-valogatottol",
+    "https://444.hu/2026/10/07/eszmeletenel-van-es-beszel-a-sikertelen-kivegzeset-tulelo-amerikai-no",
+    "https://444.hu/2026/10/07/mordort-csinaltak-god-festoi-duna-partjabol-pedig-ott-a-sok-tucatnyi-csobogo-forras-miatt-minden-zold",
+    "https://444.hu/2026/10/07/bayer-zsolt-politikai-forrasigenyei-es-osztie-atya-milliardja",
+    "https://444.hu/2026/10/06/zelenszkij-tanacsadoja-szerint-del-koreai-export-segitett-enyhiteni-oroszorszag-uzemanyagvalsagat",
+    "https://444.hu/2026/10/06/tobb-mint-egymilliard-forint-allami-tamogatast-kapott-az-orbanert-misezo-osztie-zoltan-atya-alapitvanya-az-orban-kormanytol",
+    "https://444.hu/2026/10/06/rekordgyozelem-rekordalacsony-reszvetel-mi-a-kozos-a-lett-miniszterelnokben-es-magyar-peterben-es-mi-nem",
+    "https://444.hu/2026/10/06/felhajtott-a-szentendrei-hev-allomas-peronjara-es-hatulrol-elgazolta-az-ismeroset",
+    "https://444.hu/2026/10/06/szamtalan-per-es-tiltakozas-ellenere-osszejott-a-110-milliardos-uzlet-a-paramount-megette-a-warner-bros-t",
+    "https://444.hu/2026/10/06/a-latogatok-szeme-lattara-lottek-ra-egy-szarvasra-a-keszthelyi-vadaszati-muzeumban",
+    "https://444.hu/2026/10/06/ki-veszi-at-polt-peter-helyet-palyazatot-irt-ki-az-alkotmanybirosag-az-elnoki-tisztsegre",
+    "https://444.hu/2026/10/06/telex-a-valasztas-utan-tobb-valsagtanacskozast-is-tartottak-a-belugyminiszteriumban-az-aranykonvojugy-miatt",
+    "https://444.hu/2026/10/06/franciaorszagban-bezart-az-iskolak-negyede-a-tuntetesek-miatt-belgiumban-vizagyuval-oszlatjak-a-diakokat-trump-konteozik",
+    "https://444.hu/2026/10/06/drogert-es-etelert-lopott-e-rollereket",
+    "https://444.hu/2026/10/06/helen-rappaport-oroszorszag-nem-az-ellensegem-a-nepet-es-a-kormanyt-kulon-kell-valasztani",
+    "https://444.hu/2026/10/06/a-verzio-fesztivalon-mutatjak-be-a-444-dokumentumfilmjet-egy-kulonleges-tanevrol",
+    "https://444.hu/2026/10/06/a-kdnp-a-nemzetbiztonsagi-bizottsag-azonnali-vizsgalatat-koveteli-unger-anna-egyik-kijelentese-miatt",
+    "https://444.hu/2026/10/06/magyar-peter-gyulan-emlekezett-meg-az-aradi-vertanukrol-es-a-poloskazasrol-a-miniszterelnoki-hivatal-nem-jutalom",
+    "https://444.hu/2026/10/06/a-mob-arra-keri-a-fovarosi-kozfejlesztesek-tanacsat-hogy-targyaljon-a-szervezet-olimpiarendezesi-koncepciojavaslatarol",
+    "https://444.hu/2026/10/06/a-molnar-aron-altal-megszerzett-levelek-alapjan-hankoek-tenyleg-begyujtottek-elobb-a-politikai-forrasigenyeket-aztan-kaptak-engedelyt-a-kormanytol-az-nka-10-milliardos-tartalekanak-elkoltesere",
+    "https://444.hu/2026/10/06/kiakadtak-a-lengyelek-mert-tucker-carlson-szerint-hitlernek-volt-oka-megtamadni-oket-a-masodik-vilaghaboruban",
+    "https://24.hu/elet-stilus/2026/10/07/szinetar-dora-lanya-bereczki-zorka-interju/",
+    "https://24.hu/belfold/2026/10/07/sotetlatoteres-vercseppanalizis-megtevesztes-betegek/",
+    "https://24.hu/tudomany/2026/10/07/szennyezett-levego-varos-budapest-hungaromet/",
+    "https://24.hu/kultura/2026/10/07/eva-marie-saint-meghalt/",
+    "https://24.hu/sport/foci/2026/10/07/mezokovesd-kazincbarcika-palyaberles-gazszamla/",
+    "https://24.hu/belfold/2026/10/07/sopron-emberoles-elettars-gyanusitas/",
+    "https://24.hu/sport/foci/2026/10/07/nemzetek-ligaja-feheroroszorszag-finnorszag-sumanszkij-gol/",
+    "https://24.hu/elet-stilus/2026/10/07/szabo-zsofi-masodik-gyerek-megszuletett-video/",
+    "https://24.hu/tech/2026/10/07/holdi-okkultacio-foto-jupiter-egyuttallas-magyar/",
+    "https://24.hu/fn/gazdasag/2026/10/07/meszaros-szijj-autopalya-koncesszio-felbontas/"
   ]
 }
