@@ -1,9 +1,9 @@
 {
-  "last_run": "2026-10-12T09:30:00Z",
+  "last_run": "2026-10-14T09:30:00Z",
   "sources": {
     "telex.hu": {
       "status": "error",
-      "method": "rss (https://telex.hu/rss) – 403 Cloudflare 2026-10-12"
+      "method": "rss (https://telex.hu/rss) – 403 Cloudflare 2026-10-14"
     },
     "444.hu": {
       "status": "ok",
@@ -11,7 +11,7 @@
     },
     "hvg.hu": {
       "status": "error",
-      "method": "rss (https://hvg.hu/rss) – 403 2026-10-12"
+      "method": "rss (https://hvg.hu/rss) – 403 2026-10-14"
     },
     "24.hu": {
       "status": "ok",
@@ -3598,6 +3598,46 @@
     "https://444.hu/2026/10/12/szavazz-2026-legszabadabb-embereire",
     "https://444.hu/2026/10/12/tul-koran-vehettek-orizetbe-sesztak-miklost",
     "https://444.hu/2026/10/12/ujabb-unios-panaszt-nyujtott-be-a-spar-a-magyar-kiskereskedelmi-kulonado-miatt",
-    "https://444.hu/jo/2026/10/11/a-vilag-legviccesebb-haldoklasa"
+    "https://444.hu/jo/2026/10/11/a-vilag-legviccesebb-haldoklasa",
+    "https://444.hu/2026/10/14/a-szegedi-egyetem-kancellarja-allitja-kubatov-berendelte-ot-a-lendvay-utcaba-miutan-nemet-mondott-a-nyomulo-ner-es-cegeknek",
+    "https://444.hu/2026/10/14/rakay-philip-cege-csendben-atpasszolt-egy-budai-villat-jaszai-gellert-magantokealapjainak",
+    "https://444.hu/2026/10/14/az-anthropic-szerint-honapokra-lehetunk-attol-hogy-az-ai-onalloan-terjedjen-az-okoseszkozokon",
+    "https://444.hu/2026/10/14/lemondott-az-egyesult-allamok-korrupcioval-hirbe-hozott-atheni-nagykovete",
+    "https://444.hu/jo/2026/10/14/tiz-ev-utan-folytatast-kap-a-girls-cimu-sorozat",
+    "https://444.hu/2026/10/14/tudorak-miatt-mutottek-meg-xiv-leo-papat",
+    "https://444.hu/2026/10/14/orosz-raketacsapas-ert-egy-fontos-kijevi-eromuvet-ket-ember-meghalt",
+    "https://444.hu/2026/10/14/magyar-emmanuel-macron-reszt-vesz-az-oktober-23-i-unnepsegen",
+    "https://444.hu/2026/10/14/nemeth-balazs-azt-allitotta-magyar-peter-eligazitotta-forsthoffert-a-hazelnok-visszaszolt-a-fideszes-kepviselonek",
+    "https://444.hu/2026/10/14/orban-idezo-nacionalista-fapalacsintak",
+    "https://444.hu/2026/10/14/evek-ota-orbanek-kovebol-epul-az-ivancsai-akkugyar",
+    "https://444.hu/2026/10/13/negyven-ev-bortonre-iteltek-a-tupac-shakur-meggyilkolasanak-kitervelesevel-vadolt-ferfit",
+    "https://444.hu/2026/10/13/losonczy-gezat-neveztek-ki-a-magyar-energetikai-es-kozmu-szabalyozasi-hivatal-uj-elnokeve",
+    "https://444.hu/2026/10/13/lemondott-totth-andras-energetikai-allamtitkar",
+    "https://444.hu/2026/10/13/trump-az-egyesult-allamok-folytatja-a-hirszerzesi-ertesulesek-megosztasat-ukrajnaval",
+    "https://444.hu/2026/10/13/sikeres-muteten-esett-at-xiv-leo-papa",
+    "https://444.hu/2026/10/13/a-megszoritasok-partjara-allt-a-valsaggal-kuzdo-franciaorszagban-a-nemzeti-tomorules-marine-le-pen-a-komplett-europai-szelsojobbnak-is-utat-mutathat",
+    "https://444.hu/2026/10/13/fegyveresek-raboltak-ki-gulacsi-petert-az-otthonaban",
+    "https://444.hu/2026/10/13/kemkedes-gyanujaval-orizetbe-vettek-az-oroszok-egy-japan-ujsagirot-szahalin-szigeten",
+    "https://444.hu/2026/10/13/omolnar-miklosra-vallott-a-gyanusitotti-kihallgatasan-a-ripost-volt-munkatarsa-martha-imre-megfigyelesi-ugyeben",
+    "https://444.hu/2026/10/13/magyar-peter-a-fenekkuszobnek-koszonhetoen-mukodik-a-paksi-atomeromu-minden-idok-legalacsonyabb-dunai-vizallasa-kozepette",
+    "https://444.hu/2026/10/13/harom-tenyfeltaro-bizottsagban-is-felmerult-hogy-meg-kellene-hallgatni-orban-viktort-de-eddig-meg-egyszer-sem-sikerult-elerni-hogy-ez-tenyleg-meg-is-tortenjen",
+    "https://444.hu/2026/10/13/paraszt-kiabalta-be-az-orszaggyulesben-a-tiszas-kovacs-petra-judit-majd-kesobb-felallt-es-bocsanatot-kert",
+    "https://444.hu/2026/10/13/zelenszkij-szerint-a-szovetsegesei-nem-figyelmeztettek-kijevet-a-legfrissebb-orosz-raketatamadasokra",
+    "https://444.hu/2026/10/13/kiirtak-a-nyilt-palyazatot-a-kozmedia-vezerigazgatoi-posztjara",
+    "https://444.hu/2026/10/13/ujra-letartoztattak-jeszenszky-geza-kalapacsos-tamadojat",
+    "https://444.hu/2026/10/13/a-koltsegvetesi-csalast-es-a-sikkasztast-is-beismerte-taso-laszlo-nyirsegi-fideszes-kiskiraly-unokaoccse-a-birosagon",
+    "https://444.hu/2026/10/13/hanko-balazs-marad-letartoztatasban",
+    "https://444.hu/2026/10/13/greta-thunberg-csatlakozott-a-parizsban-tunteto-diakokhoz",
+    "https://444.hu/2026/10/13/ket-nap-alatt-ket-milliardos-arbevetelu-cegebol-is-kivasaroltak-balasy-gyulat",
+    "https://24.hu/sport/foci/2026/10/14/gulacsi-peter-fegyveres-rablas-villarreal-inigo-perez/",
+    "https://24.hu/fn/gazdasag/2026/10/14/parragh-laszlo-level-kiszivargott-kamara/",
+    "https://24.hu/tudomany/2026/10/14/semmelweis-egyetem-kutatas-gyerekkori-hasfajas/",
+    "https://24.hu/belfold/2026/10/14/szegedi-egyetem-kancellar-fidesz-fenyegetes/",
+    "https://24.hu/sport/foci/2026/10/14/bajnokok-ligaja-viking-bayern-munchen-zlatko-tripic-michael-olise/",
+    "https://24.hu/belfold/2026/10/14/debrecen-rendorseg-vasut-valto-ko/",
+    "https://24.hu/elet-stilus/2026/10/14/csajok-lena-dunham-sorozat/",
+    "https://24.hu/belfold/2026/10/14/templom-politika-kdnp-fogolykivalto-ima-retvari/",
+    "https://24.hu/belfold/2026/10/14/forsthoffer-agnes-nemeth-balazs-video/",
+    "https://24.hu/fn/gazdasag/2026/10/14/orban-gyozo-kobanya-ivancsai-akkugyar/"
   ]
 }
